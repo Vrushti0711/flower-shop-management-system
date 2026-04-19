@@ -30,4 +30,4 @@ This project is a Flower Shop Management System using MySQL and Python (Tkinter 
 Update MySQL password in the Python file before running.
 
 ## Author
-Your Name
+Vrushti
